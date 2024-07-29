@@ -1,17 +1,25 @@
 ## Organization & Team
-
-이 프로젝트는 크래프톤 정글 5기 나만의 무기 만들기 최종 팀 프로젝트로 진행되었습니다.
+Quizly는 크래프톤 정글 5기 '나만의 무기 만들기' 최종 팀 프로젝트로 개발되었습니다.
 
 ### 프로젝트 정보
 - **프로젝트명**: Quizly - 3D 상호작용 기반의 몰입형 퀴즈 풀이 서비스
 - **개발 기간**: 2024.06.21 - 2024.07.27 (5주)
-- **팀명**:크래프톤 정글 5기 1교육장 2팀
+- **팀명**: 크래프톤 정글 5기 1교육장 2팀
+
+### 크래프톤 정글
+크래프톤 정글은 5개월 간의 집중 SW 교육 프로그램으로, 이 프로젝트는 과정의 최종 단계인 '나만의 무기 만들기'에서 진행되었습니다. 실제 사용자를 위한 서비스 개발과 론칭이 목표였습니다.
+
+[크래프톤 정글 더 알아보기](https://jungle.krafton.com)
 
 ### 팀원 소개
 | 이름   | 역할               | GitHub                                         |
 |--------|--------------------|-------------------------------------------------|
-| 김현수 | Frontend Developer | [@hyunS00](https://github.com/hyunS00)        |
-| 신동우 | Backend Developer  | [@NoNoise2022](https://github.com/NoNoise2022)         |
+| 김현수 | Frontend Developer | [@hyunS00](https://github.com/hyunS00)           |
+| 신동우 | Backend Developer  | [@NoNoise2022](https://github.com/NoNoise2022)   |
 | 유영우 | Backend Developer  | [@yoo20370](https://github.com/yoo20370)         |
-| 조재룡 | Backend Developer  | [@jjr7181](https://github.com/jjr7181)         |
+| 조재룡 | Backend Developer  | [@jjr7181](https://github.com/jjr7181)           |
 | 황연경 | Frontend Developer | [@yunnn426](https://github.com/yunnn426)         |
+
+### 프로젝트 관련 링크
+- [프로젝트 발표 영상]()
+- [크래프톤 정글 5기 프로젝트 갤러리]()
