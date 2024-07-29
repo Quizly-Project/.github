@@ -82,3 +82,7 @@ Quizly는 다음 네 개의 주요 컴포넌트로 구성되어 있습니다:
 | 유영우 | Backend Developer  | [@yoo20370](https://github.com/yoo20370)       |
 | 조재룡 | Backend Developer  | [@jjr7181](https://github.com/jjr7181)         |
 | 황연경 | Frontend Developer | [@yunnn426](https://github.com/yunnn426)       |
+
+## 프로젝트 관련링크
+
+- [프로젝트 포스터](https://github.com/user-attachments/assets/9bbd55f1-7050-46e6-9888-81714e33975f)
