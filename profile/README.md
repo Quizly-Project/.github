@@ -31,6 +31,8 @@ Quizly는 다음 네 개의 주요 컴포넌트로 구성되어 있습니다:
 
 ### 시스템 아키텍쳐
 
+<img src="./img/아키텍쳐.png" alt="Quizly 아키텍쳐"/>
+
 ## 레포지토리 구조
 
 - [quizly-frontend](https://github.com/Quizly-Project/quizly-frontend) - React & Three.js 프론트엔드
