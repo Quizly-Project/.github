@@ -86,3 +86,4 @@ Quizly는 다음 네 개의 주요 컴포넌트로 구성되어 있습니다:
 
 - [프로젝트 포스터](https://github.com/user-attachments/assets/9bbd55f1-7050-46e6-9888-81714e33975f)
 - [소개 영상](https://youtu.be/sUz-6YQ4_yQ)
+- [발표 영상](https://youtu.be/vFkri4LvJX4)
